@@ -43,7 +43,7 @@ pip install requests psutil mss Pillow pyautogui
 ```python
 # --- НАСТРОЙКИ БЕЗОПАСНОСТИ ---
 BOT_TOKEN = "ВАШ_ТОКЕН_БОТА"
-ALLOWED_USER_ID = 5727419233  # Ваш цифровой Telegram ID для защиты от чужого доступа
+ALLOWED_USER_ID = # Ваш цифровой Telegram ID для защиты от чужого доступа
 # ------------------------------
 ```
 
